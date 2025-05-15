@@ -1,5 +1,5 @@
 
-Firefox OS Certification Testsuite modified
+Firefox OS Certification Testsuite modified second time
 ==================================
 
 Tests and tools to verify the functionality and characteristics of
